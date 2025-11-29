@@ -6,7 +6,7 @@
 
 <p align="center">
   I'm passionate about technology, software engineering, and building systems that solve real problems.<br/>
-  I love learning new tools, experimenting with ideas, and developing projects — from web apps to 3D experiences and intelligent agent simulations.
+  I love learning new tools, experimenting with ideas, and developing projects
 </p>
 
 ---
